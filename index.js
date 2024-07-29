@@ -25,14 +25,14 @@ console.log("\n")
 
 
 // Question d-e
-
+// created an object called caustomer
 const customer = {
     name: "Emmanuel", 
     age: 12, 
     married: false, 
     location: "Kaduna"
 }
-
+//console logged each property in the object
 console.log(`Name is ${customer.name}`)
 console.log(`Age is ${customer.age}`)
 console.log(`Married is ${customer.married}`)
